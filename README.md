@@ -3,12 +3,12 @@
 # Hi there, I'm feifeigood 👋
 
 <a href="https://github.com/feifeigood">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=560&lines=Backend+%26+Systems+Engineer;Observability+%26+Distributed+Networking;In+love+with+Rust+%F0%9F%A6%80;Long-time+Go+craftsman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=560&lines=AI+Agent+Developer;Ex-DevOps+%2F+SRE+Engineer;Building+with+LLMs+%26+MCP;Rust+%C2%B7+Go+%C2%B7+Python" alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/Based%20in-China-DE2910?style=flat-square&logo=googlemaps&logoColor=white" alt="China" />
-  <img src="https://img.shields.io/badge/Focus-Observability%20%26%20Networking-2496ED?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20LLM%20Tooling-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Background-DevOps%20%2F%20SRE-2496ED?style=flat-square" alt="Background" />
   <img src="https://img.shields.io/badge/%F0%9F%A6%80-Love%20Rust-DEA584?style=flat-square" alt="Love Rust" />
 </p>
 
@@ -23,30 +23,35 @@
 
 ### 🚀 About Me
 
-- 🔭 I build **distributed observability/monitoring systems** on top of Prometheus & M3
-- 🛰️ I'm fascinated by **networking & tunneling** — WireGuard, P2P, and userspace stacks
-- 🦀 In love with **Rust**; long-time **Go** craftsman
-- ☁️ Exploring **cloud-native**, **Kubernetes**, and the **Model Context Protocol (MCP)**
-- 💬 Ask me about Prometheus internals, service discovery, or async Rust
+- 🤖 Currently building **AI Agents** and **LLM-powered tooling** around the **Model Context Protocol (MCP)**
+- ☁️ Background in **DevOps / SRE** — observability, monitoring & infrastructure automation
+- 🦀 Hands-on across **Rust**, **Go** and **Python**
+- 🔭 Exploring agent frameworks, tool-use orchestration and cloud sandboxes
+- 💬 Ask me about MCP, Prometheus internals, or async Rust
 
 ---
 
 ### 🛠️ Tech Stack
 
+<p><b>Languages</b></p>
 <p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
+<p><b>AI / Agents</b></p>
 <p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+</p>
+<p><b>Infra / DevOps</b></p>
+<p>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/etcd-419EDA?style=for-the-badge&logo=etcd&logoColor=white" alt="etcd" />
-  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
