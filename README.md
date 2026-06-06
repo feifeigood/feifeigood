@@ -2,7 +2,9 @@
 
 # Hi there, I'm feifeigood 👋
 
-#### Backend & Systems Engineer · Observability & Distributed Networking
+<a href="https://github.com/feifeigood">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=560&lines=Backend+%26+Systems+Engineer;Observability+%26+Distributed+Networking;In+love+with+Rust+%F0%9F%A6%80;Long-time+Go+craftsman" alt="Typing SVG" />
+</a>
 
 <p>
   <img src="https://img.shields.io/badge/Based%20in-China-DE2910?style=flat-square&logo=googlemaps&logoColor=white" alt="China" />
@@ -51,14 +53,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Contribution Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=feifeigood&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="feifeigood's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feifeigood&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=feifeigood&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=feifeigood&theme=tokyo-night&hide_border=true&area=true&color=2496ED&line=2496ED&point=ffffff" alt="Contribution graph" />
 
 </div>
 
@@ -66,39 +65,14 @@
 
 ### 🌟 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/feifeigood/nightwatch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=feifeigood&repo=nightwatch&theme=tokyonight&hide_border=true" alt="nightwatch" />
-</a>
-<a href="https://github.com/feifeigood/wiretunn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=feifeigood&repo=wiretunn&theme=tokyonight&hide_border=true" alt="wiretunn" />
-</a>
-
-<a href="https://github.com/feifeigood/swiftlink">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=feifeigood&repo=swiftlink&theme=tokyonight&hide_border=true" alt="swiftlink" />
-</a>
-<a href="https://github.com/feifeigood/mega">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=feifeigood&repo=mega&theme=tokyonight&hide_border=true" alt="mega" />
-</a>
-
-<a href="https://github.com/feifeigood/common">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=feifeigood&repo=common&theme=tokyonight&hide_border=true" alt="common" />
-</a>
-<a href="https://github.com/feifeigood/code-sandbox-mcp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=feifeigood&repo=code-sandbox-mcp&theme=tokyonight&hide_border=true" alt="code-sandbox-mcp" />
-</a>
-
-</div>
-
-| Project | What it is |
-| --- | --- |
-| 💡 [**nightwatch**](https://github.com/feifeigood/nightwatch) | Distributed, high-performance monitoring system based on Prometheus & M3 |
-| 🔐 [**wiretunn**](https://github.com/feifeigood/wiretunn) | A WireGuard implementation written from scratch in Rust |
-| 🛰️ [**swiftlink**](https://github.com/feifeigood/swiftlink) | An experimental network tunnel in Rust |
-| 📦 [**mega**](https://github.com/feifeigood/mega) | A monitoring stack built around Prometheus |
-| 🧰 [**common**](https://github.com/feifeigood/common) | A collection of reusable Go utility libraries |
-| 🤖 [**code-sandbox-mcp**](https://github.com/feifeigood/code-sandbox-mcp) | MCP server for running code & shell in secure E2B cloud sandboxes |
+| Project | Description | Activity |
+| --- | --- | --- |
+| 💡 [**nightwatch**](https://github.com/feifeigood/nightwatch) | Distributed, high-performance monitoring system based on Prometheus & M3 | ![stars](https://img.shields.io/github/stars/feifeigood/nightwatch?style=flat-square&label=%E2%98%85) ![last](https://img.shields.io/github/last-commit/feifeigood/nightwatch?style=flat-square&label=) |
+| 🔐 [**wiretunn**](https://github.com/feifeigood/wiretunn) | A WireGuard implementation written from scratch in Rust | ![stars](https://img.shields.io/github/stars/feifeigood/wiretunn?style=flat-square&label=%E2%98%85) ![last](https://img.shields.io/github/last-commit/feifeigood/wiretunn?style=flat-square&label=) |
+| 🛰️ [**swiftlink**](https://github.com/feifeigood/swiftlink) | An experimental network tunnel in Rust | ![stars](https://img.shields.io/github/stars/feifeigood/swiftlink?style=flat-square&label=%E2%98%85) ![last](https://img.shields.io/github/last-commit/feifeigood/swiftlink?style=flat-square&label=) |
+| 📦 [**mega**](https://github.com/feifeigood/mega) | A monitoring stack built around Prometheus | ![stars](https://img.shields.io/github/stars/feifeigood/mega?style=flat-square&label=%E2%98%85) ![last](https://img.shields.io/github/last-commit/feifeigood/mega?style=flat-square&label=) |
+| 🧰 [**common**](https://github.com/feifeigood/common) | A collection of reusable Go utility libraries | ![stars](https://img.shields.io/github/stars/feifeigood/common?style=flat-square&label=%E2%98%85) ![last](https://img.shields.io/github/last-commit/feifeigood/common?style=flat-square&label=) |
+| 🤖 [**code-sandbox-mcp**](https://github.com/feifeigood/code-sandbox-mcp) | MCP server for running code & shell in secure E2B cloud sandboxes | ![stars](https://img.shields.io/github/stars/feifeigood/code-sandbox-mcp?style=flat-square&label=%E2%98%85) ![last](https://img.shields.io/github/last-commit/feifeigood/code-sandbox-mcp?style=flat-square&label=) |
 
 ---
 
