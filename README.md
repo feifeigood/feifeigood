@@ -72,11 +72,10 @@
 
 | Project | Description | Activity |
 | --- | --- | --- |
-| 🤖 [**mcpbase**](https://github.com/feifeigood/mcpbase) | A Kubernetes-native platform for hosting & managing MCP servers | ![stars](https://img.shields.io/github/stars/feifeigood/mcpbase?style=flat-square&label=%E2%98%85) ![last](https://img.shields.io/github/last-commit/feifeigood/mcpbase?style=flat-square&label=) |
 | 🧪 [**code-sandbox-mcp**](https://github.com/feifeigood/code-sandbox-mcp) | MCP server for running code & shell in secure E2B cloud sandboxes | ![stars](https://img.shields.io/github/stars/feifeigood/code-sandbox-mcp?style=flat-square&label=%E2%98%85) ![last](https://img.shields.io/github/last-commit/feifeigood/code-sandbox-mcp?style=flat-square&label=) |
-| 🔐 [**wiretunn**](https://github.com/feifeigood/wiretunn) | A WireGuard implementation written from scratch in Rust | ![stars](https://img.shields.io/github/stars/feifeigood/wiretunn?style=flat-square&label=%E2%98%85) ![last](https://img.shields.io/github/last-commit/feifeigood/wiretunn?style=flat-square&label=) |
 | 🛰️ [**swiftlink**](https://github.com/feifeigood/swiftlink) | An experimental network tunnel in Rust | ![stars](https://img.shields.io/github/stars/feifeigood/swiftlink?style=flat-square&label=%E2%98%85) ![last](https://img.shields.io/github/last-commit/feifeigood/swiftlink?style=flat-square&label=) |
 | 🧰 [**common**](https://github.com/feifeigood/common) | A collection of reusable Go utility libraries | ![stars](https://img.shields.io/github/stars/feifeigood/common?style=flat-square&label=%E2%98%85) ![last](https://img.shields.io/github/last-commit/feifeigood/common?style=flat-square&label=) |
+| 🔌 [**freeport**](https://github.com/feifeigood/freeport) | A small Rust library to find a free port | ![stars](https://img.shields.io/github/stars/feifeigood/freeport?style=flat-square&label=%E2%98%85) ![last](https://img.shields.io/github/last-commit/feifeigood/freeport?style=flat-square&label=) |
 
 ---
 
